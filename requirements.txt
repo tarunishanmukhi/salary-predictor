@@ -1,0 +1,5 @@
+streamlit
+joblib
+numpy
+scikit-learn
+pandas    # optional, only needed if you use Employees.xlsx in future
